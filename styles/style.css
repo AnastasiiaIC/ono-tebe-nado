@@ -1,1 +1,10 @@
-/* место для вашего кода */
+.header {
+    display: inline-block;
+    
+   
+}
+
+
+.header_logo-image {
+    width: 130px;
+}
