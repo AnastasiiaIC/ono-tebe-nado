@@ -121,7 +121,7 @@
     padding: 12px 32px;
     color: #fff;
     font-weight: normal;
-    font-size: 22px; 
+    font-size: 22px;
     text-transform: uppercase;
     background-color: transparent;/*цвет фона кнопки прозрачный*/
 }
@@ -151,7 +151,7 @@
 
 .card {
     position: relative;
-    display: flex; 
+    display: flex;
     flex-direction: column;
     justify-content: space-between;
     height: 100%;
